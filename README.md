@@ -46,6 +46,7 @@ host가 제공해주는 체험을 참여하고 일반 서비스 이용 고객도
   + 프로젝트 진행과정 : 35일
 ---
 
+
 ---
 #Data Base Design
 
@@ -54,20 +55,37 @@ host가 제공해주는 체험을 참여하고 일반 서비스 이용 고객도
 ---
 
 ## LayOut Design
-      1.메인화면
+```
+1.메인화면
+```
 ![main](https://user-images.githubusercontent.com/110441845/210218998-b7648e20-a171-47cd-8e4b-540b4d1e8309.JPG)
 ![체험 게시글](https://user-images.githubusercontent.com/110441845/210219080-b8d473ad-2110-4fbe-bf39-907ab17b40ba.JPG)
 ![마이페이지](https://user-images.githubusercontent.com/110441845/210219090-05d52d2a-f126-4df0-b041-3fa8dc9ae05b.JPG)
 ![예약내역](https://user-images.githubusercontent.com/110441845/210219092-19dc4566-0997-4a0e-b6ac-761676b1090b.JPG)
-      2.결제 페이지
+```
+2.결제 페이지
+```
 ![결제페이지](https://user-images.githubusercontent.com/110441845/210219239-dd0a1c0a-6793-47b5-95bf-1e8870bbe4bf.JPG)
 ![결제페이지2](https://user-images.githubusercontent.com/110441845/210219243-73c454be-37ca-4acb-9238-b719da8af81c.JPG)
-      3.고객센터 
+```
+3.고객센터 
+```
 ![qnaGet](https://user-images.githubusercontent.com/110441845/210219322-cfcec1ec-03ae-471c-a172-59381856a275.JPG)
 ![qnaList](https://user-images.githubusercontent.com/110441845/210219327-e45c3f8b-77e7-4346-960f-2565e64f816c.JPG)
 ![qnamodify](https://user-images.githubusercontent.com/110441845/210219331-b700fe2e-bf91-457b-991f-9076111f3f75.JPG)
 ![qnaRegister](https://user-images.githubusercontent.com/110441845/210219346-123aca52-aa8b-47b9-9eb9-fc468cc6c159.JPG)
 
+```
+4.호스트 페이지
+```
+![호스트페이지](https://user-images.githubusercontent.com/110441845/210219727-43a17fd7-0fbb-4ddc-9a2e-3dbfc090a6a2.JPG)
+![체험 등록](https://user-images.githubusercontent.com/110441845/210219732-e771156f-ab16-4466-8618-6e6169f2b7fe.JPG)
+
+```
+5.admin이 아니면 접근 불가
+```
+![not admin](https://user-images.githubusercontent.com/110441845/210219752-05eee830-29fa-4c0c-a213-58d0f199d73f.JPG)
+![not admin2](https://user-images.githubusercontent.com/110441845/210219764-594de060-19ab-4819-a400-af0c68f03068.JPG)
 
 
 
