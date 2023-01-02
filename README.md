@@ -59,6 +59,14 @@ host가 제공해주는 체험을 참여하고 일반 서비스 이용 고객도
 ![체험 게시글](https://user-images.githubusercontent.com/110441845/210219080-b8d473ad-2110-4fbe-bf39-907ab17b40ba.JPG)
 ![마이페이지](https://user-images.githubusercontent.com/110441845/210219090-05d52d2a-f126-4df0-b041-3fa8dc9ae05b.JPG)
 ![예약내역](https://user-images.githubusercontent.com/110441845/210219092-19dc4566-0997-4a0e-b6ac-761676b1090b.JPG)
+      2.결제 페이지
+![결제페이지](https://user-images.githubusercontent.com/110441845/210219239-dd0a1c0a-6793-47b5-95bf-1e8870bbe4bf.JPG)
+![결제페이지2](https://user-images.githubusercontent.com/110441845/210219243-73c454be-37ca-4acb-9238-b719da8af81c.JPG)
+      3.고객센터 
+![qnaGet](https://user-images.githubusercontent.com/110441845/210219322-cfcec1ec-03ae-471c-a172-59381856a275.JPG)
+![qnaList](https://user-images.githubusercontent.com/110441845/210219327-e45c3f8b-77e7-4346-960f-2565e64f816c.JPG)
+![qnamodify](https://user-images.githubusercontent.com/110441845/210219331-b700fe2e-bf91-457b-991f-9076111f3f75.JPG)
+![qnaRegister](https://user-images.githubusercontent.com/110441845/210219346-123aca52-aa8b-47b9-9eb9-fc468cc6c159.JPG)
 
 
 
