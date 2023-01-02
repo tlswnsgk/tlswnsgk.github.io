@@ -55,7 +55,11 @@ host가 제공해주는 체험을 참여하고 일반 서비스 이용 고객도
 
 ## LayOut Design
       1.메인화면
-      
+![main](https://user-images.githubusercontent.com/110441845/210218998-b7648e20-a171-47cd-8e4b-540b4d1e8309.JPG)
+![체험 게시글](https://user-images.githubusercontent.com/110441845/210219080-b8d473ad-2110-4fbe-bf39-907ab17b40ba.JPG)
+![마이페이지](https://user-images.githubusercontent.com/110441845/210219090-05d52d2a-f126-4df0-b041-3fa8dc9ae05b.JPG)
+![예약내역](https://user-images.githubusercontent.com/110441845/210219092-19dc4566-0997-4a0e-b6ac-761676b1090b.JPG)
+
 
 
 
