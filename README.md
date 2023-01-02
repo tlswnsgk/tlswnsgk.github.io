@@ -46,6 +46,26 @@ host가 제공해주는 체험을 참여하고 일반 서비스 이용 고객도
   + 프로젝트 진행과정 : 35일
 ---
 
+---
+#Data Base Design
+
++DB ERD
+![ErdCloud](https://user-images.githubusercontent.com/110441845/210218731-d7f2ffd3-5989-48ca-9791-98d1c7f5f222.JPG)
+---
+
+## LayOut Design
+      1.메인화면
+      
+
+
+
+
+
+
+
+
+
+
 
 
 
