@@ -4,24 +4,24 @@ Activity 프로젝트는 체험 제공 서비스 웹 서비스입니다.
 host가 제공해주는 체험을 참여하고 일반 서비스 이용 고객도 host가 되어 체험을 제공 할 수 있는 양방향 플랫폼입니다.
 
 ---
-## + 기술스택
+## * 기술스택
 ```
-  Java
-  Spring
-  Spring Security
-  Rest API
+  *Java
+  *Spring
+  *Spring Security
+  *Rest API
+  *AWS 
   
-  
-  mariaDB
-  JavaScript
-  Ajax
-  HTML/CSS
-  BootStrap
-  GitHub(프로젝트 협업)
+  *mariaDB
+  *JavaScript
+  *Ajax
+  *HTML/CSS
+  *BootStrap
+  *GitHub(프로젝트 협업)
 ```
 ---
 
-+기능적 요구사항
+*기능적 요구사항
 
 1. 사용자는 회원가입을 하고 이를 통해 로그인을 할 수 있다.
 
@@ -43,7 +43,7 @@ host가 제공해주는 체험을 참여하고 일반 서비스 이용 고객도
 
 ---
 ## Project planning
-  + 프로젝트 진행과정 : 35일
+  * 프로젝트 진행과정 : 35일
 ---
 
 
